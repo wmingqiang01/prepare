@@ -1,0 +1,3 @@
+D:/DeskTop/prepare/cmake-build-debug/CMakeFiles/prepare.dir
+D:/DeskTop/prepare/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DeskTop/prepare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
